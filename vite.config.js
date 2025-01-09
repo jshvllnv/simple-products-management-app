@@ -10,4 +10,7 @@ export default defineConfig({
         }),
         vue(),
     ],
+    build: {
+        outDir: "public/dist", // Explicitly set the output directory to 'public/dist'
+    },
 });
