@@ -5,7 +5,7 @@
         >
             <div class="col-md-6">
                 <img
-                    src="/assets/page-not-found-vector.svg"
+                    src="/public/assets/page-not-found-vector.svg"
                     alt="Page Not Found"
                 />
                 <p class="fw-bold fs-4 text-center">
